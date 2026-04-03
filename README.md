@@ -29,7 +29,7 @@ The certificate was designed for BitcoinVersus.Tech using a neon black visual th
 ## Current Credential Metadata
 
 - Credential: Open Source AI Engineer Certification
-- Recipient: Mathan Burton
+- Recipient: (Insert Your Name Here)
 - Issuer: BitcoinVersus.Tech
 - Program Focus: Agentic AI Engineering
 - Proof of Work: 100+ Hours of Applied AI Engineering
